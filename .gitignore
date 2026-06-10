@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+
+# Source material — NOT part of the deployed website (large / private)
+*.mp4
+*.pptx
+*.docx
+*.xlsx
+Schurhamer_Benjamin_*headshot*.jpg
+
+# Old compiled bundle + backups
+uro-onc-site.html
+uro-onc-site.backup-*.html
+
+# Misc
+*.log

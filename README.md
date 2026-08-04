@@ -55,7 +55,6 @@ The Contact page (`team.html`) uses secure **contact actions** instead of a mess
 
 ## Notes / TODO before launch
 
-- [ ] Set real **ORCID / Google Scholar / LinkedIn** URLs (currently generic).
 - [ ] Confirm any **academic title** / **Arkansas license** to display.
 - [ ] Confirm **office hours** in `team.html` are correct.
 - [ ] Update `https://example.com/` in `robots.txt`, `sitemap.xml`, and the JSON-LD `image`/`url` (in each page `<head>`) to the real domain.
